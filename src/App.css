@@ -1,0 +1,58 @@
+*{
+    background-color: rgb(252, 208, 252);
+    margin: 0;
+    padding: 0;
+
+}
+
+.container{
+    
+    margin: 20px;
+    padding: 50px;
+    text-align: center;
+    margin-top: 10%;
+
+};
+h1{
+    color: rgb(219, 26, 26);
+    font-size: large;
+    font-weight: 500;;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 30px;
+    margin-bottom: 20px
+
+};
+.input-type{
+    padding: 12px;
+    font-size: 20px;
+
+}
+.btn{
+    background-color: rgb(177, 65, 65);
+    margin-left: 10px;
+    border-radius: 5px;
+    padding: 5px;
+    cursor: pointer;
+    border: none;
+    color: aliceblue;
+}
+.listitem{
+    color: blueviolet;
+    margin-top: 20px;
+    width: fit-content;
+    margin-left: 30%;
+    font-size: 20px;
+}
+.last-btn{
+    width: 30px;
+    background-color: brown;
+    margin-left: 10px;
+    margin-top: 5px;
+    padding: 2px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: large;
+    outline: none;
+    border: none;
+}
